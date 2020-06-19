@@ -212,9 +212,7 @@ MyArray15 = np.frombuffer(s, dtype =  'S1')
 
 MyArray15
 
-Out[15]: 
-
-array( [b'H', b'e', b'l', b'l', b'o', b' ', b'W', b'o', b'r', b'l', b'd'],  dtype='S1' )
+Out[15]:  array( [b'H', b'e', b'l', b'l', b'o', b' ', b'W', b'o', b'r', b'l', b'd'],  dtype='S1' )
 
 **实例16** 从可迭代对象中读取数据并创建数组
 
